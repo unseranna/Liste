@@ -1,0 +1,62 @@
+<!doctype html">
+
+<html>
+
+<head>
+
+<meta charset="utf-8">
+
+<title>Ungeordnete und geordnete Listen</title>
+
+</head>
+
+<body>
+
+<h1>Fächer der Markus-Schule</h1>
+
+
+
+<ul>
+
+<li>Fächer
+
+<ol start="8" reversed="reversed">>
+
+<li>Mathe</li>
+
+<li>Deutsch</li>
+
+<li>Biologie</li>
+
+<li>Geschichte</li>
+
+<li>Englisch</li>
+
+<li>Religion</li>
+
+</ul>
+
+</li>
+
+<li>Lehrer
+
+<ol start="4">
+
+<li>Schneider</li>
+
+<li>Neumann</li>
+
+<li>Engelhardt</li>
+
+<li>Ueltzhöffer</li>
+
+<li>Opitz</li>
+
+<li>Laub</li>
+
+</ol>
+
+</body>
+
+</html>
+
