@@ -10,13 +10,13 @@
     <ul>
     	<li>Fächer
         	<ul>
-   				<li>Mathe</li>
-    		  	<li>Deutsch</li>
-     		 	<li>Biologie</li>
-     		 	<li>Geschichte</li>
-     		 	<li>Englisch</li>
-     			<li>Religion</li>
-            </ul>
+   			  	<li>Mathe</li>
+    		    <li>Deutsch</li>
+     		  	<li>Biologie</li>
+     		    <li>Geschichte</li>
+     		  	<li>Englisch</li>
+     		    <li>Religion</li>
+          </ul>
         </li>
         <li>Lehrer
             <ul>
@@ -26,6 +26,8 @@
                 <li>Ueltzhöffer</li>
                 <li>Opitz</li>
                 <li>Laub</li>
-    </ul>
+            </ul>
+         </li>
+     <ul>
   </body>
 </html>
