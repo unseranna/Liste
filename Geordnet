@@ -20,13 +20,13 @@
 
 <li>Fächer
 
-<ol start="8" reversed="reversed">>
+<ol start="8" reversed="reversed">
 
 <li>Mathe</li>
 
 <li>Deutsch</li>
 
-<li>Biologie</li>
+<li value="4">Biologie</li>
 
 <li>Geschichte</li>
 
@@ -34,9 +34,9 @@
 
 <li>Religion</li>
 
-</ol>
-
 </li>
+
+</ol>
 
 <li>Lehrer
 
@@ -46,7 +46,7 @@
 
 <li>Neumann</li>
 
-<li>Engelhardt</li>
+<li value="11">Engelhardt</li>
 
 <li>Ueltzhöffer</li>
 
@@ -54,7 +54,11 @@
 
 <li>Laub</li>
 
+</li>
+
 </ol>
+
+</ul>
 
 </body>
 
